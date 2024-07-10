@@ -1,8 +1,10 @@
 body{
     background-color: black;
+    padding: 50px;
+    margin: 50px;
 }
 .title {
-    font-size: 50px;
+    font-size: 70px;
     word-spacing: 10px;
     letter-spacing: 5px;
     font-family: "Tiny5", sans-serif;
@@ -15,14 +17,26 @@ body{
     font-family: "Tiny5", sans-serif;
     font-style: italic;
     font-size: 20px;
-    letter-spacing: 8px;
+    letter-spacing: 6px;
     color: white;
-    
+    display: grid;
+    grid-template-columns: 400px;
+
  }
  .description {
     font-family: "Tiny5", sans-serif;
-    font-size: 15px;
+    font-size: 22px;
     letter-spacing: 4px;
     font-weight: bold;
     color: white;
+    display: grid;
+    grid-template-columns: 300px;
  }
+  .list {
+    color: white;
+    font-family: "Tiny5", sans-serif;
+    font-size: 25px;
+    padding: 10px;
+    letter-spacing: 8px;
+
+  }
