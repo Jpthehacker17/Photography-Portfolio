@@ -2,6 +2,8 @@ body{
     background-color: black;
     padding: 50px;
     margin: 50px;
+    scroll-behavior: smooth;
+
 }
 .title {
     font-size: 70px;
@@ -12,6 +14,7 @@ body{
     color: white;
     display: grid;
     grid-template-columns:5ch;
+
 }
  .quote {
     font-family: "Tiny5", sans-serif;
@@ -32,6 +35,16 @@ body{
     display: grid;
     grid-template-columns: 300px;
  }
+
+.bx {
+    color: white;
+    font-size: 100px;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    
+}
+
   .list {
     color: white;
     font-family: "Tiny5", sans-serif;
@@ -40,3 +53,40 @@ body{
     letter-spacing: 8px;
 
   }
+
+
+
+.butterfly {
+    display:flex;
+    margin-top: -700px;
+    margin-left: 800px;
+    border-radius: 70px;
+    transition: 0.5s;
+
+
+}
+
+.butterfly:hover {
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.1);
+}
+
+.tree {
+    display:flex;
+    margin-top: -300px;
+    margin-left: 600px;
+    border-radius: 70px;
+    width: 400px;
+    transition: 0.5s;
+
+
+}
+
+.tree:hover {
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.1);
+}
+
+.line {
+    margin-top: 100px;
+}
