@@ -1,21 +1,28 @@
+body{
+    background-color: black;
+}
 .title {
     font-size: 50px;
     word-spacing: 10px;
     letter-spacing: 5px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: bolder;
-    border-radius: 10px;
-    border-color: black;
-    border-width: 5px;
-    border-style:double;
+    font-family: "Tiny5", sans-serif;
+    font-weight: 900;
+    color: white;
+    display: grid;
+    grid-template-columns:5ch;
 }
  .quote {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: "Tiny5", sans-serif;
     font-style: italic;
-    letter-spacing: 10px;
+    font-size: 20px;
+    letter-spacing: 8px;
+    color: white;
+    
  }
  .description {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: "Tiny5", sans-serif;
     font-size: 15px;
+    letter-spacing: 4px;
     font-weight: bold;
+    color: white;
  }
