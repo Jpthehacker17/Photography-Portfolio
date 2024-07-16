@@ -266,10 +266,16 @@ body{
     margin-left: 80px;
 }
 
+
 .page_5 {
     color: white;
     font-family: "Tiny5", sans-serif;
     font-size: 100px;
+}
+
+.page_5 .dec5 {
+    font-size: 20px;
+    margin-top: -100px;
 }
 
 
@@ -327,6 +333,244 @@ body{
 }
 
 .photo5:hover {
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+} 
+
+.page_6 .dec6 {
+    color: white;
+    font-size: 20px;
+    margin-top: -100px;
+}
+
+.page_6 .images_6, .new1 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+.new1:hover{
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+} 
+
+.page_6 .images_6, .new2 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+.new2:hover{
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+} 
+
+.page_6 .images_6, .new3 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+.new3:hover{
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+} 
+
+.page_6 .images_6, .new4 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+.new4:hover{
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+} 
+
+.page_6 .images_6, .new5 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+.new5:hover{
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+} 
+
+.page_6 .images_6, .new6 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+.new6:hover{
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+} 
+
+.page_6 .images_6, .new7 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+.new7:hover{
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+} 
+.page_6 .images_6, .new8 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+.new8:hover{
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+} 
+
+
+.page_7 .images_7, .cool1 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+.cool1:hover{
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+} 
+
+.page_7 .images_7, .cool2 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+.cool2:hover{
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+} 
+
+.page_7 .images_7, .cool3 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+.cool3:hover{
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+} 
+
+.page_7 .images_7, .cool4 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+.cool4:hover{
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+} 
+.page_7 .images_7, .cool5 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+.cool5:hover{
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+} 
+.page_7 .images_7, .cool6 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+.cool6:hover{
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+} 
+.page_7 .images_7, .cool7 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+.cool7:hover{
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+} 
+.page_7 .images_7, .cool8 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+.cool8:hover{
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+} 
+.page_7 .images_7, .cool9 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+.cool9:hover{
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+} 
+.page_7 .images_7, .cool10 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+.page_7 .dec7 {
+    color: white;
+    font-size: 20px;
+    margin-top: -100px;
+}
+.cool10:hover{
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+} 
+.page_7 .images_7, .cool11 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+.cool11:hover{
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+} 
+.page_7 .images_7, .cool12 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+.cool12:hover{
     border-radius: 10px;
     box-shadow: 1px 1px 40px white;
     transform: scale(1.5);
