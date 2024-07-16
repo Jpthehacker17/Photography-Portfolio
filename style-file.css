@@ -212,3 +212,123 @@ body{
     border-radius: 50px;
     transition: 0.5s;
 }
+
+.one3:hover {
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+}
+
+.page_4 .images_4, .two3 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+.two3:hover {
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+}
+
+
+.page_4 .images_4, .three3 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+.three3:hover {
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+}
+
+.page_4 .images_4, .four3 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+.four3:hover {
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+}
+
+.page_4 .images_4, .five3 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+.five3:hover {
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+}
+
+.page_5 {
+    color: white;
+    font-family: "Tiny5", sans-serif;
+    font-size: 100px;
+}
+
+
+.page_5 .images_5, .photo1 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+.photo1:hover {
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+} 
+
+
+.page_5 .images_5, .photo2 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+.photo2:hover {
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+} 
+
+.page_5 .images_5, .photo3 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+.photo3:hover {
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+} 
+
+.page_5 .images_5, .photo4 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+.photo4:hover {
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+} 
+
+.page_5 .images_5, .photo5 {
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+.photo5:hover {
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px white;
+    transform: scale(1.5);
+    margin-left: 80px;
+} 
